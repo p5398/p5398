@@ -1,0 +1,85 @@
+body{
+  background-image: url(SRC/bg.jpg);
+  background-size: 234px 245px;
+}
+.url{
+  color: #DCDCDC;
+  text-decoration: none;
+}
+.hat{
+  text-align: center;
+  position: absolute;
+  top: 10px;
+  margin: 1px;
+  text-align: left;
+}
+.hat-element{
+  position: relative;
+  margin: 20px;
+  color: #DCDCDC;
+  font-size: 4mm;
+  font-family: sans-serif;
+}
+.hat-element-CULT{
+  position: relative;
+  margin-left: 20px;
+  margin-top: 0px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  color: #DCDCDC;
+  font-size: 5.5mm;
+  font-family: monospace;
+}
+.center{
+  background: #161D24;
+  border-radius: 5px;
+  width: 500px;
+  height: 100%;
+  padding: 1%;
+  text-align: center;
+  position: absolute;
+  margin: auto;
+  top: 10px;
+  left: 0px;
+  right: 0px;
+}
+.card-image{
+  border-radius: 2px;
+  width: 220px;
+  height: 220px;
+}
+.card{
+  box-shadow: 1.5px 1.5px 1.5px #000000;
+  color: gray;
+  border-radius: 2px;
+  background-color: inherit;
+  width: 220px;
+  height: auto;
+  text-align: left;
+  background-color: #070A0A;
+  display: inline-block;
+  margin: 10px;
+}
+.card-btn{
+  transition: 0s transform;
+  border-width: 0px;
+  padding: 7px 13px;
+  font-size: 1.3em;
+  color: #DCDCDC;
+  background-color: #161D24;
+  border-radius: 2px;
+  margin-bottom: 3px;
+  margin-right: 3px;
+  margin-top: 0px;
+  margin-left: 3px;
+}
+.card-btn:hover{
+  background-color: #fff;
+  color: #DCDCDC;
+}
+.card-h{
+  margin: 3px;
+  color: #DCDCDC;
+  font-size: 5mm;
+  font-family: sans-serif;
+}
