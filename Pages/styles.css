@@ -23,6 +23,7 @@ body{
   height: auto;
   display: inline-block;
   position: absolute;
+  background-color: #070A0A;
 }
 .card{
   box-shadow: 1.5px 1.5px 1.5px #000000;
