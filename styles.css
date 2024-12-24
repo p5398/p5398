@@ -1,0 +1,126 @@
+body{
+  background-color: #070A0A;
+  background-size: 234px 245px;
+  max-height: 600px;
+}
+.header{
+  text-align: center;
+}
+.url{
+  color: #DCDCDC;
+  text-decoration: none;
+}
+.hat{
+  color: #BBBBBB;
+  font-size: 8mm;
+  display: inline-block;
+  font-family: sans-serif;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.center{
+  background: #161D24;
+  border-radius: 10px;
+  width: 85%;
+  height: auto;
+  text-align: center;
+  position: relative;
+  margin: auto;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.card-image{
+  border-radius: 10px;
+  width: 220px;
+  height: 220px;
+}
+.card{
+  box-shadow: 1.5px 1.5px 1.5px #000000;
+  color: gray;
+  border-radius: 10px;
+  background-color: inherit;
+  width: 220px;
+  height: auto;
+  background-color: #070A0A;
+  display: inline-block;
+  margin: 10px;
+  text-align: left;
+}
+.card-btn{
+  width: 98%;
+  transition: 0s transform;
+  border-width: 0px;
+  padding: 7px 13px;
+  font-size: 1.3em;
+  color: #DCDCDC;
+  background-color: #161D24;
+  border-radius: 10px;
+  margin-bottom: 3px;
+  margin-right: 3px;
+  margin-top: 0px;
+  margin-left: 3px;
+  align: center;
+}
+.card-btn-product{
+  width: auto;
+  transition: 0s transform;
+  border-width: 0px;
+  padding: 20px 40px;
+  font-size: 1.3em;
+  color: #DCDCDC;
+  background-color: #070A0A;
+  border-radius: 10px;
+  margin-bottom: 3px;
+  margin-right: 3px;
+  margin-top: 0px;
+  margin-left: 3px;
+  align: center;
+}
+.card-btn-product:hover{
+  background-color: #fff;
+  color: #DCDCDC;
+}
+.card-btn:hover{
+  background-color: #fff;
+  color: #DCDCDC;
+}
+.card-h0{
+  margin-top: 0px;
+  margin-bottom: 30px;
+  color: #DCDCDC;
+  font-size: 8mm;
+  font-family: sans-serif;
+}
+.card-h1{
+  margin-top: 3px;
+  margin-left: 3px;
+  margin-bottom: 0px;
+  color: #DCDCDC;
+  font-size: 5mm;
+  font-family: sans-serif;
+}
+.card-h2{
+  margin-top: 0px;
+  margin-left: 3px;
+  margin-bottom: 3px;
+  color: #BBBBBB;
+  font-size: 3.5mm;
+  font-family: sans-serif;
+}
+.CULT-image-1{
+  width: 16mm;
+  height: 16mm;
+  top: 10px;
+  position: relative;
+  display: inline-block;
+}
+.CULT-image-2{
+  width: 16mm;
+  height: 16mm;
+  top: 10px;
+  position: relative;
+  display: inline-block;
+}
