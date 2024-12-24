@@ -1,2 +1,0 @@
-## FOR MY OWN SITE
-
